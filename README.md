@@ -1,5 +1,5 @@
 # OIBSIP
-I developed the following projects to complete the task by using python, which is got in Infobyte internship.
+I developed the following projects to complete the task by using python, which I got in Infobyte internship.
 
 
 1. Project 1 is for Body Mass Index calculator.
